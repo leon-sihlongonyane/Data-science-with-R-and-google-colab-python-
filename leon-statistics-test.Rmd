@@ -1,0 +1,17 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+---
+title: "statistics assignment 3"
+author: "leon sihlongonyane"
+date: "19/11/2021"
+output: pdf_document
+Question 1,2
+```{r}
+setwd("~/Downloads")
+library(readr)
+Data_A3FF <- read_csv("Data_A3FF.csv")
+#View(Data_A3FF)
+```
