@@ -1,2 +1,2 @@
-# R
-Importing, cleaning and visualizationof real statistical data
+# Data science
+Data visualization on R and Machine learning using google colab (python)
